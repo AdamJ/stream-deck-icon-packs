@@ -1,0 +1,9 @@
+{
+    "Name": "SDK sample icon pack",
+    "Version": "1.0",
+    "Author": "Elgato",
+    "URL": "https://www.elgato.com",
+    "Icon": "icon.svg",
+    "License": "license.txt",
+    "Description": "This is a description from the SDK sample icon pack...\n\nEdit manifest.json to create something meaningful."
+}

@@ -1,0 +1,6 @@
+[
+    { "path": "1.svg", "name": "One", "tags": ["numbers", "firstTag"] },
+    { "path": "2.png", "name": "Two", "tags": ["numbers", "otherTag"] },
+    { "path": "3.jpg", "name": "Three", "tags": ["numbers"] },
+    { "path": "4.gif", "name": "4", "tags": ["numbers", "digit", "road-sign"] }
+]
