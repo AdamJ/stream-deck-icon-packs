@@ -1,0 +1,9 @@
+{
+    "Name": "Adam's solid icon pack",
+    "Version": "1.0",
+    "Author": "Adamj",
+    "URL": "https://www.github.com/AdamJ/AdamJ",
+    "Icon": "adam.svg",
+    "License": "license.txt",
+    "Description": "A set of solid icons used with the Elgato Stream Deck."
+}
