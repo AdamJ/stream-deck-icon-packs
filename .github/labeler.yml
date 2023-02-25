@@ -1,0 +1,15 @@
+# Add 'icons-solid'
+icons-solid:
+- com.elgato.jolicoeur-solid.sdIconPack
+
+# Add 'icons-regular'
+icons-regular:
+- com.elgato.jolicoeur.sdIconPack
+
+# Add 'config'
+config:
+- any ['.*', '!com.elgato.jolicoeur.sdIconPack/**', '!com.elgato.jolicoeur-solid.sdIconPack/**']
+
+# Add 'config-backup'
+config-backup:
+- '*.streamDeckProfilesBackup.streamDeckProfilesBackup'
