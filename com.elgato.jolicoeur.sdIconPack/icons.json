@@ -31,5 +31,6 @@
     { "path": "taskei-braveheart.png", "name": "Taskei Braveheart icon", "tags": ["taskei", "website"] },
     { "path": "theverge.png", "name": "The Verge", "tags": ["website"] },
     { "path": "verified.png", "name": "Verified", "tags": ["icon"] },
-    { "path": "youtube.png", "name": "YouTube icon", "tags": ["website"] }
+    { "path": "youtube.png", "name": "YouTube icon", "tags": ["website"] },
+    { "path": "discord.svg", "name": "Discord icon", "tags": ["application"] }
 ]
