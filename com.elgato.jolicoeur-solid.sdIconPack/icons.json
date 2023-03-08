@@ -1,6 +1,4 @@
 [
-    { "path": "checkers_taskeiTips.gif", "name": "KB Checkers", "tags": ["taskei", "animated"] },
-    { "path": "checkers_taskeiTips.png", "name": "KB Checkers", "tags": ["taskei"] },
     { "path": "amazon.png", "name": "Amazon", "tags": ["website"] },
     { "path": "amazon-light.png", "name": "Amazon", "tags": ["website", "color"] },
     { "path": "amazon_line.png", "name": "Amazon line", "tags": ["website"] },
@@ -48,7 +46,6 @@
     { "path": "swamp-color.png", "name": "MTG Swamp color", "tags": ["gaming", "color"] },
     { "path": "swamp-white.png", "name": "MTG Swamp white", "tags": ["gaming", "white"] },
     { "path": "verified.png", "name": "Verified", "tags": ["icon"] },
-    { "path": "Taskei_Braveheart.png", "name": "Taskei Braveheart icon", "tags": ["taskei", "website"] },
     { "path": "YouTube.png", "name": "YouTube icon", "tags": ["website"] },
     { "path": "youtube-light.png", "name": "YouTube light icon", "tags": ["website", "color"] },
     { "path": "youtube-line.png", "name": "YouTube line icon", "tags": ["website"] }
