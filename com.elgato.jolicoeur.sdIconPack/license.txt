@@ -1,2 +1,0 @@
-Copyright 2020 Corsair/Elgato
-Licensed under the MIT License: http://opensource.org/licenses/MIT
