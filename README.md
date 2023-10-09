@@ -8,7 +8,7 @@ This is repo contains multiple icon packs for use with the [Elgato Stream Deck](
 
 ![image of icon pack preview](/com.elgato.jolicoeur-neon-icons.sdIconPack/previews/1-preview.png)
 
-A collection of icons for applications, controls, and websites that I used on my Elgato Stream Deck. [Download](/com.elgato.jolicoeur-neon-icons.sdIconPack/ "Link to icon folder")
+A collection of icons for applications, controls, and websites that I used on my Elgato Stream Deck. [Download &amp; Install](/com.elgato.jolicoeurneonicons.streamDeckIconPack "Link to installable icon pack")
 
 You can find the icons in my icon library on [Figma](https://www.figma.com/community/file/1287072958179215150/switchback-icon-library "Link to icon library on Figma") or on [Dribbble](https://dribbble.com/shots/22779287-Neon-Icons "Link to Dribbble shot").
 
