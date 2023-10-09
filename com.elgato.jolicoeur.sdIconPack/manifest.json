@@ -1,9 +1,0 @@
-{
-    "Name": "Adam's standard icon pack",
-    "Version": "1.0",
-    "Author": "AdamJ",
-    "URL": "https://www.github.com/AdamJ/stream-deck-icon-packs/com.elgato.jolicoeur.sdIconPack",
-    "Icon": "icon.jpg",
-    "License": "license.txt",
-    "Description": "A set of standard icons used with the Elgato Stream Deck."
-}

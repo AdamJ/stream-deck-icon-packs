@@ -1,0 +1,9 @@
+{
+    "Name": "Adam's neon icons",
+    "Version": "2.0",
+    "Author": "AdamJ",
+    "URL": "https://www.github.com/AdamJ/stream-deck-icon-packs/com.elgato.jolicoeur.sdIconPack",
+    "Icon": "icon.png",
+    "License": "license.txt",
+    "Description": "A collection of icons for applications, controls, and websites that I used on my Elgato Stream Deck."
+}

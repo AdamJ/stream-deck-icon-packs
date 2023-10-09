@@ -4,11 +4,11 @@ icons-solid:
 
 # Add 'icons-regular'
 icons-regular:
-- com.elgato.jolicoeur.sdIconPack
+- com.elgato.jolicoeur-neon-icons.sdIconPack
 
 # Add 'config'
 config:
-- any ['.*', '!com.elgato.jolicoeur.sdIconPack/**', '!com.elgato.jolicoeur-solid.sdIconPack/**']
+- any ['.*', '!com.elgato.jolicoeur-neon-icons.sdIconPack/**', '!com.elgato.jolicoeur-solid.sdIconPack/**']
 
 # Add 'config-backup'
 config-backup:
